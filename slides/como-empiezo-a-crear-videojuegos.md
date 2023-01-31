@@ -24,6 +24,8 @@ Ideas descartadas
 ---
 ## ¿Quién?
 
+<img class="r-stretch" style="text-align: center" src="../assets/who-videogames.png">
+
 
 ## Productor/a
 
@@ -46,11 +48,31 @@ Ideas descartadas
 
 
 ## ¡Y estos solamente son los principales!
+
+Músicos
+
+Guionistas
+
+Technical Artist
+
+Marketing y RRSS
+
+Publisher
+
+Más info en [intogames.org/careers](https://intogames.org/careers)
 ---
 ## ¿Cómo?
 
+<img class="r-stretch" style="text-align: center" src="../assets/how-videogames.png">
 
-## Game Design Document
+
+## Game Design Document (GDD)
+
+El documento base del videojuego
+
+Lo escribe el equipo de diseño
+
+Contiene todo lo que debe saber el resto de los equipos para crear el videojuego
 
 
 ## Motores de desarrollo
@@ -64,13 +86,10 @@ Motores propietarios (C++)
 
 ## Metodología SCRUM
 
-<img class="r-stretch" style="text-align: center" src="https://netmind.net/es/wp-content/uploads/2020/12/MicrosoftTeams-image-37.png">
----
-## ¿Cuándo?
-Escalabilidad
-Pequeños juegos bien hechos
-JAM
----
+<img class="r-stretch" style="text-align: center" src="../assets/scrum.png">
+
+<small>Fuente: netmind.net</small>
+
 ## Importancia del Marketing
 
 En 2021 se han lanzado 28 videojuegos cada día
@@ -78,6 +97,29 @@ En 2021 se han lanzado 28 videojuegos cada día
 Si no vendes no puedes continuar ni crecer
 
 La importancia de darse visibilidad
+---
+## ¿Cuándo?
+
+<img class="r-stretch" style="text-align: center" src="../assets/when-videogames.png">
+
+
+## Desde ya
+
+Juegos pequeños bien hechos
+
+
+## La escalera de la escalabilidad
+
+Enfócate en un género o temática aumentando la complejidad
+
+
+## Apúntate a las Game Jam
+
+Crea videojuegos en equipo en poco tiempo
+
+Aprendes mucho
+
+Conoces gente
 ---
 ## Grados Superiores en el IES Rafael Alberti
 
@@ -93,11 +135,11 @@ Inteligencia Artificial y Big Data
 
 Desarrollo de Videojuegos y Realidad Virtual
 ---
-## Ciberseguridad
+<img class="r-stretch" style="text-align: center" src="../assets/logos-combinados-ciberseguridad.png">
 ---
-## Inteligencia Artificial y Big Data
+<img class="r-stretch" style="text-align: center" src="../assets/logos-combinados-ia.png">
 ---
-## Desarrollo de Videojuegos y Realidad Virtual
+<img class="r-stretch" style="text-align: center" src="../assets/logos-combinados-videojuegos.png">
 
 
 ## ¿Cómo aprendemos?
@@ -136,6 +178,13 @@ Desarrollo de un videojuego en un solo mes, contando con un mes de formación in
 <img class="r-stretch" style="text-align: center" src="../assets/Presentation_website.png">
 
 <small>https://gdevelop.io</small>
+
+
+## ¿Dónde muestro mis creaciones?
+
+<img class="r-stretch" style="text-align: center" src="../assets/itch.png">
+
+<small>https://itch.io</small>
 
 
 ## Demostración
