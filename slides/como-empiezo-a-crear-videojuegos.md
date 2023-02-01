@@ -20,9 +20,13 @@ Ideas descartadas
 - Guía de cada cosa
 - Vídeos de Gdevelop subtitulados español
 ---
-<img class="r-stretch" style="text-align: center" src="../assets/logos-combinados-videojuegos.png">
+## ¿Quién soy?
+
+<img class="r-stretch" style="text-align: center" src="../assets/ReadyPlayerMe-Avatar.png">
+
+<small>hola@davidlms.com</small>
 ---
-## ¿Quién?
+## ¿Quién hace un videojuego?
 
 <img class="r-stretch" style="text-align: center" src="../assets/who-videogames.png">
 
@@ -49,39 +53,39 @@ Ideas descartadas
 
 ## ¡Y estos solamente son los principales!
 
-Músicos
+Músicos <!-- .element: class="fragment" -->
 
-Guionistas
+Guionistas <!-- .element: class="fragment" -->
 
-Technical Artist
+Technical Artist <!-- .element: class="fragment" -->
 
-Marketing y RRSS
+Marketing y RRSS <!-- .element: class="fragment" -->
 
-Publisher
+Publisher <!-- .element: class="fragment" -->
 
 Más info en [intogames.org/careers](https://intogames.org/careers)
 ---
-## ¿Cómo?
+## ¿Cómo se hace un videojuego?
 
 <img class="r-stretch" style="text-align: center" src="../assets/how-videogames.png">
 
 
 ## Game Design Document (GDD)
 
-El documento base del videojuego
+El documento base del videojuego <!-- .element: class="fragment" -->
 
-Lo escribe el equipo de diseño
+Lo escribe el equipo de diseño <!-- .element: class="fragment" -->
 
-Contiene todo lo que debe saber el resto de los equipos para crear el videojuego
+Contiene todo lo que debe saber el resto de los equipos para crear el videojuego <!-- .element: class="fragment" -->
 
 
 ## Motores de desarrollo
 
-Unity (C#)
+Unity (C#) <!-- .element: class="fragment" -->
 
-Unreal Engine (Blueprint, C++)
+Unreal Engine (Blueprint, C++) <!-- .element: class="fragment" -->
 
-Motores propietarios (C++)
+Motores propietarios (C++) <!-- .element: class="fragment" -->
 
 
 ## Metodología SCRUM
@@ -90,36 +94,37 @@ Motores propietarios (C++)
 
 <small>Fuente: netmind.net</small>
 
+
 ## Importancia del Marketing
 
-En 2021 se han lanzado 28 videojuegos cada día
+En 2021 se han lanzado 28 videojuegos cada día <!-- .element: class="fragment" -->
 
-Si no vendes no puedes continuar ni crecer
+Si no vendes no puedes continuar ni crecer <!-- .element: class="fragment" -->
 
-La importancia de darse visibilidad
+La importancia de darse visibilidad <!-- .element: class="fragment" -->
 ---
-## ¿Cuándo?
+## ¿Cuándo empiezo a hacer videojuegos?
 
 <img class="r-stretch" style="text-align: center" src="../assets/when-videogames.png">
 
 
-## Desde ya
+## Hoy
 
-Juegos pequeños bien hechos
+Juegos pequeños bien hechos <!-- .element: class="fragment" -->
 
 
 ## La escalera de la escalabilidad
 
-Enfócate en un género o temática aumentando la complejidad
+Enfócate en un género o temática aumentando la complejidad <!-- .element: class="fragment" -->
 
 
-## Apúntate a las Game Jam
+## Apúntate a una Game Jam
 
-Crea videojuegos en equipo en poco tiempo
+Crea videojuegos en equipo en poco tiempo <!-- .element: class="fragment" -->
 
-Aprendes mucho
+Aprendes mucho <!-- .element: class="fragment" -->
 
-Conoces gente
+Conoces gente <!-- .element: class="fragment" -->
 ---
 ## Grados Superiores en el IES Rafael Alberti
 
@@ -144,22 +149,22 @@ Desarrollo de Videojuegos y Realidad Virtual
 
 ## ¿Cómo aprendemos?
 
-Desarrollando videojuegos y experiencias en Realidad Virtual
+Desarrollando videojuegos y experiencias en Realidad Virtual <!-- .element: class="fragment" -->
 
-Participando en Game Jams (GameOff 2022, Málaga Jam y Boss Rush 2023)
+Participando en Game Jams (GameOff 2022, Málaga Jam y Boss Rush 2023) <!-- .element: class="fragment" -->
 
-Usando tecnología (Equipos 3060, Meta Quest 2 y Pro, traje de mocap)
+Usando tecnología (Equipos 3060, Meta Quest 2 y Pro, traje de mocap) <!-- .element: class="fragment" -->
 
 
 ## Nuestra experiencia en GameOff 2022
 
-Desarrollo de un videojuego en un solo mes, contando con un mes de formación inicial
+Desarrollo de un videojuego en un solo mes, contando con un mes de formación inicial <!-- .element: class="fragment" -->
 
-92 de 562 en categoría Gráficos
+92 de 562 en categoría Gráficos <!-- .element: class="fragment" -->
 
-197 de 562 en categoría General
+197 de 562 en categoría General <!-- .element: class="fragment" -->
 
-¡Sin crunch!
+¡Sin crunch! <!-- .element: class="fragment" -->
 
 
 ## Baker´s Bizarre Adventure
@@ -189,8 +194,21 @@ Desarrollo de un videojuego en un solo mes, contando con un mes de formación in
 
 ## Demostración
 
+Crear y publicar un juego de plataformas en 10 minutos
+
 
 ## Comienza nuestra JAM
+
+<img class="r-stretch" style="text-align: center" src="../assets/qr-game-jam.png">
+
+<small>https://itch.io/jam/semana-tecnica-2023-la-salle-mundo-nuevo</small>
+
+
+## Acceso directo a tutoriales
+
+<img class="r-stretch" style="text-align: center" src="../assets/qr-tutoriales-gdevelop.png">
+
+<small>https://www.youtube.com/@GDevelopApp/playlists?view=50&sort=dd&shelf_id=1</small>
 ---
 
 <!-- .slide: data-background-video="../assets/searching.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted-->
